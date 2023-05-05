@@ -5,7 +5,7 @@ title: "O Que Fazem Mulheres"
 author: "Camilo Castelo Branco"
 date: "1858"
 type: "Romance"
-Structure: "índice, capítulos (I a IV), conclusão e suplemento)"
+Structure: "Índice, Capítulos (I a IV), Conclusão e Suplemento)"
 ---
 
 
