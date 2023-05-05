@@ -4,6 +4,8 @@ author:  Camilo Castelo Branco
 subtitle: Memórias Duma Família
 date: 1862
 type: romance
+revision: Conceição Lopes
+ortography:
 ---
 
 Ao
